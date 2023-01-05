@@ -4,8 +4,6 @@ defineConfig({
   presets: [
     presetUno(),
     presetAttributify(),
-    presetIcons({
-      scale: 1.5,
-    }),
+    presetIcons({ scale: 1.5 }),
   ],
 })
